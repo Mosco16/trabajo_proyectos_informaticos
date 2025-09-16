@@ -1,0 +1,25 @@
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Archivos de configuración local
+config.local.*
+*.env
+
+# Carpetas de backup
+backup/
+temp/
+
+# Archivos de VS Code (opcional)
+.vscode/settings.json
+
+# Archivos específicos de MySQL
+*.sql~
