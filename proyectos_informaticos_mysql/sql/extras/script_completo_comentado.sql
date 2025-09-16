@@ -8,7 +8,7 @@
 -- Descripción: Script consolidado que contiene toda la lógica de la base de datos para gestión de 
 --              proyectos informáticos, incluyendo creación de tablas, procedimientos almacenados, 
 --              triggers, funciones y datos de prueba.
--- Propósito Académico: Evidencia de análisis explicativo detallado del script SQL para clase de BD
+-- Propósito: Evidenciar el análisis explicativo detallado del script SQL para clase de BD
 -- =============================================================================================================
 
 -- =============================================================================================================
@@ -901,7 +901,7 @@ LIMIT 2;
 --    - fn_status_proyecto() [NUEVA]
 -- 6. Triggers automáticos para auditoría
 -- 7. Índices para optimización
--- 8. 8 docentes de ejemplo (2 originales + 6 adicionales solicitados)
+-- 8. 8 docentes de ejemplo (2 originales + 6 adicionales)
 -- 9. 8 proyectos correspondientes
 -- 10. Consultas de verificación y análisis (incluyendo uso de nuevas funciones)
 -- 
